@@ -1,0 +1,2 @@
+(this["webpackJsonpsecond-react-app"]=this["webpackJsonpsecond-react-app"]||[]).push([[0],{4:function(e,n,c){"use strict";c.r(n);c(0);var t=c(2),p=c.n(t),s=c(3);p.a.render(Object(s.jsx)("h1",{children:" Hello Second App "}),document.getElementById("container"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.fd4f9da9.chunk.js.map
